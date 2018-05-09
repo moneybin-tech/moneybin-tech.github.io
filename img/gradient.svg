@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="777" height="480" style="">
+			<defs>
+				<radialGradient id="svg_3" spreadMethod="pad" cx="0.484375" cy="0.4625000059604645" fx="0.52734375" fy="0.7789062261581421" gradientTransform="rotate(-49,0.484375,0.4625000059604645) translate(0.26156250000000003,0) scale(0.45999999999999996,1)" r="1.4883404970169067">
+					<stop stop-color="#456b72" stop-opacity="1" offset="0"/>
+					<stop stop-color="#002054" stop-opacity="1" offset="1"/>
+				</radialGradient>
+			<radialGradient id="svg_1" spreadMethod="pad" cx="0.484375" cy="0.4625000059604645" fx="0.48046875" fy="0.6734375059604645" gradientTransform="rotate(-54,0.484375,0.4625000059604645) translate(0.7071875,0) scale(-0.45999999999999996,1)" r="0.6230646465181189">
+					
+					<stop stop-color="#456b72" stop-opacity="1" offset="0"/><stop stop-color="#002054" stop-opacity="1" offset="1"/>
+				</radialGradient></defs>
+			<title>my vector image</title>
+			<!-- Created with Vector Paint - http://www.vectorpaint.yaks.com/ https://chrome.google.com/webstore/detail/hnbpdiengicdefcjecjbnjnoifekhgdo -->
+			<rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/>
+			<g style="" class="currentLayer">
+				<title>Layer 1</title>
+				<rect fill="url(#svg_1)" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" id="svg_2" x="0" y="0" width="100%" height="100%" style="color: rgb(69, 107, 114);" class="selected" fill-opacity="1"/>
+			</g>
+		</svg>
