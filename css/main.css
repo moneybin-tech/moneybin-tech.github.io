@@ -166,6 +166,41 @@ body {
 }
 
 
+@media only screen 
+and (max-device-width : 667px) {
+
+    .main-wrapper {
+        display: block;
+        padding: 60px 0 0 0;
+    }
+
+    .background-container {
+        width: 65%;
+        margin: 0 auto;
+    }
+
+    .contact {
+        top: auto;
+        bottom: -60px;
+        right: -36px;
+    }
+
+    .contact h3 {
+        font-size: 11px;
+    }
+
+    .contact a {
+        font-size: 11px;        
+    }
+
+    .main-wrapper svg {
+        transform: none;
+        top: -10%;
+        left: -50%;
+    }
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
