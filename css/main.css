@@ -167,7 +167,7 @@ body {
 
 
 @media only screen 
-and (max-device-width : 667px) {
+and (max-device-width : 812px) {
 
     .main-wrapper {
         display: block;
@@ -195,8 +195,37 @@ and (max-device-width : 667px) {
 
     .main-wrapper svg {
         transform: none;
-        top: -10%;
-        left: -50%;
+        top: -11%;
+        left: -70%;
+    }
+}
+
+@media only screen 
+  and (max-device-width: 813px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+    .background-container {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .main-wrapper svg {
+        transform: none;
+        top: -24%;
+        left: -26%;
+        width: 150%;
+    }
+}
+
+
+@media only screen 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+    .background-container {
+        width: 35%;
+        margin: 0 auto;
     }
 }
 
